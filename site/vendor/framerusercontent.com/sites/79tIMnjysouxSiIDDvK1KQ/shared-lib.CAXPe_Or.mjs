@@ -1,0 +1,2 @@
+import{__esmMin as e}from"./rolldown-runtime.C0sJWP3_.mjs";function t(e,t){return{description:`Canada’s #1 AI Automation Agency for Local Businesses.`,favicon:`/vendor/framerusercontent.com/assets/FcEZ9uf6S1qkzAXnZGzK0TGp5A.jpeg`,robots:`max-image-preview:large`,socialImage:`/vendor/framerusercontent.com/assets/dc0X4CYJwOb6XYkwiWlABEVZMQ0.png`,title:`MG&CO Technologies Inc.`}}var n=e((()=>{}));export{n as init_siteMetadata,t as metadata};
+//# sourceMappingURL=shared-lib.CAXPe_Or.mjs.map
